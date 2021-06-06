@@ -55,7 +55,7 @@ According to the results on the below image, there is not statistical diference 
 
 ### Lot 2:
 
-As we saw with Lot 1, the results for Lot 2 do not enough show statistical diference with a p-value of .6072. Therefore, the null hypothesis cannot be rejected.
+As we saw with Lot 1, the results for Lot 2 do not show enough statistical diference with a p-value of .6072. Therefore, the null hypothesis cannot be rejected.
 
 ![t.test_lot2.png](https://github.com/DanielGandia/MechaCar_Statistical_Analysis/blob/main/Resources/t.test_lot2.png)
 
